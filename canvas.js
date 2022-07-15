@@ -181,7 +181,7 @@ function Desenha() {
     if (pontosGold == 17) {
         
         Swal.fire({
-            title: 'Vencedor: amarelo',
+            title: 'Vencedor: Amarelo',
             width: 300,
             padding: '3em',
             color: 'gold',
@@ -197,7 +197,7 @@ function Desenha() {
 
     if (pontosGreen == 17) {
         Swal.fire({
-            title: 'Vencedor: amarelo',
+            title: 'Vencedor: Verde',
             width: 300,
             padding: '3em',
             color: 'green',
