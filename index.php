@@ -1,5 +1,5 @@
 <?php 
 
-include_once("canvas.html");
+include_once("index.html");
 
 ?>
